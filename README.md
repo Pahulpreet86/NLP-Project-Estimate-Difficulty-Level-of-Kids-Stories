@@ -75,7 +75,7 @@
 ### -   Data Labelling:
     
 
-1.  The data labeling process was automated through selenium web driver.
+1.  The data was labelled with their respective lexical score, process was automated through selenium web driver.
 
 ![](https://lh5.googleusercontent.com/sJAPpe1CmlpT63W14C1dukB6SQzOX4QMAkSVyI3xldVlNFtx5NNXV8KJBBEtmwAlE2FjS1qiIARdgb16vQqmZMnbeS3ptv6nYUFQ3h4Nhz7cYLrLMcoB4z0YaA_N_rJ5t7F9YR3R)
 
