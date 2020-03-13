@@ -1,7 +1,6 @@
 # NLP Project: Estimate Difficulty Level of Kids Stories
 
-#### Project Report: S2M role
-
+# Project Report
   
 
 ## 1.  Business Domain
